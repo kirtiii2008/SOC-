@@ -2,6 +2,8 @@ My code forces handle is https://codeforces.com/profile/kirti2008
 
 # Week 1
 
+Contest Link for Week 1 https://codeforces.com/group/MNl5W7SXII/contest/697929
+
 Week 1 started with basics of cp like time and space analysis, learning how to use vectors, sets, maps, pairs and other built-in functions/libraries in cpp. Then we moved on to the concepts like binary search and sliding windows which are useful in many questions to reduce the time.
 
 ## Binary Search
@@ -32,6 +34,8 @@ The main idea is to avoid repeatedly processing elements that are not relevant t
 
 # Week 2
 
+Contest Link for Week 2 is https://codeforces.com/group/MNl5W7SXII/contest/695081
+
 ## Divide And Conquer
 
 In this we break the problem into smaller subproblems. The key is forget about solving the smaller subproblem and just focus on combining the solutions to solve the bigger one. Using this algo we saw some problems like counting inversions, area counting etc.
@@ -50,6 +54,10 @@ This helps us count the number of primes till a number `n` by removing all the m
 
 # Week 3 and 4
 
+Contest Link for Week 3 https://codeforces.com/group/MNl5W7SXII/contest/696451
+Contest Link for Week 4 https://codeforces.com/group/MNl5W7SXII/contest/697929
+
 These weeks were focused on DP which is recursion with memory management. We store previously computed values and reuse them to calculate future values which saves both time and memory significantly.
 
-Many problems were provided in the resources involving greedy and DP including Subset Sum Problem, Optimal Binary Search Tree, Knapsack Problem, etc.
+Problems were provided in the resources involving greedy and DP like Subset Sum Problem, Optimal Binary Search Tree, Knapsack Problem, etc.
+Greedy and Advanced DP problems aren't disscussed in the report.
