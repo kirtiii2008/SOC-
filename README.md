@@ -61,4 +61,5 @@ Contest Link for Week 4 https://codeforces.com/group/MNl5W7SXII/contest/697929
 These weeks were focused on DP which is recursion with memory management. We store previously computed values and reuse them to calculate future values which saves both time and memory significantly.
 
 Problems were provided in the resources involving greedy and DP like Subset Sum Problem, Optimal Binary Search Tree, Knapsack Problem, etc.
+
 Greedy and Advanced DP problems aren't disscussed in the report.
